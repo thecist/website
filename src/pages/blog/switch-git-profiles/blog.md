@@ -1,0 +1,3 @@
+Check out my [process](switch-git-profiles/life) in making this Blog
+
+# In Progress...
