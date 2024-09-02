@@ -15,3 +15,12 @@ I also desperately need some commit hooks lol, I almost typed my name
 - Commit hook to check for no no words and current account
 - Integration of an existing regression testing framework
 - Creation of custom regression testing framework for practice
+
+## 9/1/2024
+I've been both busy and lazy. It's annoying but this week will be better. I also have to push my extension up the list. I really need a way to hold myself accountable, fast.
+
+```
+When the website/app/extension load, it should be extremely fast so I can easily add text to it
+```
+
+I'm also currently learning vim, I was told I won't be insufferable once I'm done(that's arch) but I really need to pick up speed.
