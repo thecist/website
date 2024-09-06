@@ -33,3 +33,9 @@ Alright let's do this
 
 ### About an hour later
 I had a call with my boss(for my internship) and added some checks to prevent dumb mistakes. I'll work on deploying what I have currently to thecist and then work on adding a regression testing pipeline.
+
+```
+I probably should prevent pushing and commiting on the same line using &&
+
+Future me if you're reading this please figure out a smart way or just stop. What's the point of the check if you're going to push anyways?
+```
