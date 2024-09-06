@@ -30,3 +30,6 @@ Famous last words lol.
 
 I really need to be consistent, so many things to do
 Alright let's do this
+
+### About an hour later
+I had a call with my boss(for my internship) and added some checks to prevent dumb mistakes. I'll work on deploying what I have currently to thecist and then work on adding a regression testing pipeline.
