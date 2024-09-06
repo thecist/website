@@ -24,3 +24,9 @@ When the website/app/extension load, it should be extremely fast so I can easily
 ```
 
 I'm also currently learning vim, I was told I won't be insufferable once I'm done(that's arch) but I really need to pick up speed.
+
+## 9/6/2024
+Famous last words lol.
+
+I really need to be consistent, so many things to do
+Alright let's do this
