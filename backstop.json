@@ -22,8 +22,8 @@
       "height": 1080
     }
   ],
-  "onBeforeScript": "puppet/onBefore.js",
-  "onReadyScript": "puppet/onReady.js",
+  "onBeforeScript": "puppet/onBefore.cjs",
+  "onReadyScript": "puppet/onReady.cjs",
   "scenarios": [
     {
       "label": "BackstopJS Homepage",
