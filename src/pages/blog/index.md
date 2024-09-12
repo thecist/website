@@ -1,11 +1,11 @@
 # What will the blog page be about
 Blog will be focused on projects I work on along with some tidbits about my experience working on them
 
-I'll get into as much details as I can along with recording videos/audious and showing diagrams with excalidraw. Most of the blogs on my projects will be on features I implement on this website but occasionally there might be come projects I work on that are not part of the website.
+I&#8217;ll get into as much details as I can along with recording videos/audious and showing diagrams with excalidraw. Most of the blogs on my projects will be on features I implement on this website but occasionally there might be come projects I work on that are not part of the website.
 
 ## Another Section (Too lazy to name it)
 
-Some projects I'll be working on will include
+Some projects I&#8217;ll be working on will include
 - A custom made regression testing framework
 - Writing a custom script to switch git profiles on a machine
 - A custom markdown parser
