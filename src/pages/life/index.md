@@ -46,3 +46,8 @@ I just deployed my website and found a problem with the apostrophe
 - Create a better system to dump all the todo's in my face so I actually work on them when I visit the site
 - Make the site something I have to visit more often
 - Change the default url with the thecist.dev url bought
+
+## 9/18/2024
+I've been gone for a week, that's a long time. I've been busy getting my boxes from my mum's friend, school and an internship. But most of all I have a hard time sticking to a schedule. I've decided to prioritise creating an extension over an online markdown editor for my blogs and journal.
+
+I should hopefully have something rudimentary working by the end of the week
