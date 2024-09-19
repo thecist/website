@@ -51,3 +51,8 @@ I just deployed my website and found a problem with the apostrophe
 I've been gone for a week, that's a long time. I've been busy getting my boxes from my mum's friend, school and an internship. But most of all I have a hard time sticking to a schedule. I've decided to prioritise creating an extension over an online markdown editor for my blogs and journal.
 
 I should hopefully have something rudimentary working by the end of the week
+
+## 9/19/2024
+There was a bug from my end. I kept the markdown in the same folder as the pages directory. It took about 5 hours to fix because the markdown overode the astro page so my previous "fixes" did nothing. 
+- Check up on content management systesm in astro
+- Create the extension 
