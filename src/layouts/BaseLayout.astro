@@ -1,8 +1,8 @@
 ---
-let { title } = Astro.props;
-title = title || "Home Page"
+const { title = "Home Page" } = Astro.props;
 ---
 
+<!DOCTYPE html>
 <html lang="en">
 	<head>
 		<meta charset="utf-8" />
